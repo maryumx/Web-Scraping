@@ -17,4 +17,5 @@ Filters mobiles within ₹20,000 – ₹30,000 price range
 - Python 🐍
 - BeautifulSoup
 - Requests
-Pandas
+- Pandas
+- Numpy
